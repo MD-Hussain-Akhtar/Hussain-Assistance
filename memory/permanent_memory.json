@@ -1,0 +1,69 @@
+{
+  "user_id": "ayush_001",
+  "name": "Ayush Sir",
+  "face_embedding_reference": null,
+  "voice_profile_id": null,
+  "preferences": {
+    "music": {
+      "genre": {
+        "value": "lofi",
+        "timestamp": "2026-02-05T12:22:24.989164+00:00"
+      }
+    },
+    "clothing": {
+      "style": {
+        "value": "formal",
+        "timestamp": "2026-02-05T12:22:24.990163+00:00"
+      }
+    }
+  },
+  "habits": {
+    "sleep_time": {
+      "data": {
+        "time": "1:30 AM",
+        "quality": "good"
+      },
+      "timestamp": "2026-02-05T12:22:24.991161+00:00"
+    },
+    "work_time": {
+      "data": {
+        "start": "9 AM",
+        "end": "6 PM"
+      },
+      "timestamp": "2026-02-05T12:22:24.992162+00:00"
+    }
+  },
+  "emotion_history": [
+    {
+      "emotion": "happy",
+      "context": "Project completed",
+      "confidence": 1.0,
+      "timestamp": "2026-02-05T12:22:24.994172+00:00",
+      "date": "2026-02-05"
+    },
+    {
+      "emotion": "tired",
+      "context": "Late work session",
+      "confidence": 1.0,
+      "timestamp": "2026-02-05T12:22:24.995175+00:00",
+      "date": "2026-02-05"
+    }
+  ],
+  "last_conversations": [
+    {
+      "sender": "User",
+      "text": "Zoya ye yaad rakh lo",
+      "context": "",
+      "timestamp": "2026-02-05T12:22:24.997174+00:00"
+    },
+    {
+      "sender": "ADA",
+      "text": "Theek hai sir, yaad rakh liya",
+      "context": "",
+      "timestamp": "2026-02-05T12:22:24.998174+00:00"
+    }
+  ],
+  "created_at": "2026-02-05T12:22:24.987160+00:00",
+  "last_updated": "2026-02-05T12:22:24.998174+00:00",
+  "memory_version": "1.0"
+}

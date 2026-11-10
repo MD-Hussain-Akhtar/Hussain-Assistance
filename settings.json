@@ -1,0 +1,25 @@
+{
+    "face_auth_enabled": false,
+    "tool_permissions": {
+        "generate_cad": true,
+        "run_web_agent": true,
+        "write_file": true,
+        "read_directory": true,
+        "read_file": true,
+        "create_project": true,
+        "switch_project": true,
+        "list_projects": true,
+        "system_control": true,
+        "screen_access": true,
+        "file_access": true
+    },
+    "printers": [],
+    "kasa_devices": [],
+    "camera_flipped": false,
+    "auto_confirm_tools": false,
+    "emotion_ai_enabled": true,
+    "emotion_sources": {
+        "voice": true,
+        "face": true
+    }
+}
